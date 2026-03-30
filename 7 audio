@@ -1,0 +1,19 @@
+<!DOCTYPE html>
+<html>
+<head>
+<title>Media in HTML</title>
+</head>
+<body>
+
+<h2>Audio Example</h2>
+<audio controls>
+<source src="sample-audio.mp3">
+</audio>
+
+<h2>Video Example</h2>
+<video width="400" controls>
+<source src="sample-video.mp4">
+</video>
+
+</body>
+</html>
